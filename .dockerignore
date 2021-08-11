@@ -1,0 +1,17 @@
+# Folder
+.github
+.gradle
+.idea
+build
+gradle
+gradlew
+gradlew.bat
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Files
+.gitignore
+README.md
